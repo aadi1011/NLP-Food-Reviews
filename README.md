@@ -12,3 +12,15 @@ a) **Tokenization and Lemmatization**: We split the reviews into individual word
 
 b) **Data Cleansing**: We removed stopwords, symbols, and URLs from the text data to eliminate noise and improve model performance.
 
+### Step 3: Vectorization
+We used different vectorization techniques to convert the preprocessed text data into numerical features:
+
+a) **CountVectorizer**: This technique counts the frequency of each word in the text corpus, creating a matrix of word counts.
+
+b) **TFIDFVectorizer (Term Frequency-Inverse Document Frequency)**: This technique assigns weights to words based on their importance in a document relative to the entire corpus.
+
+c) **Word2Vec**: We used Word2Vec to create dense word embeddings based on the context of words in the corpus.
+
+d) **GoogleNews Word2Vec**: This is a pre-trained Word2Vec model trained on a large Google News dataset.
+
+
