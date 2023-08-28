@@ -23,4 +23,18 @@ c) **Word2Vec**: We used Word2Vec to create dense word embeddings based on the c
 
 d) **GoogleNews Word2Vec**: This is a pre-trained Word2Vec model trained on a large Google News dataset.
 
+### Step 4: Machine Learning Algorithms
+We employed the following machine learning algorithms for classification:
 
+a) **Logistic Regression**: A simple linear classification algorithm that learns a decision boundary.
+
+b) **Support Vector Classifier (SVC)**: A powerful algorithm for binary and multi-class classification.
+
+c) **Random Forest (RF)**: An ensemble learning algorithm that combines multiple decision trees.
+
+### Step 5: Results and Comparison
+We evaluated each algorithm's performance using the Classification Report, which provides metrics such as precision, recall, F1-score, and support for each class. The results were compared to determine the best-performing algorithm for the given task.
+
+Please note that the actual code to perform these steps is not included in this document. However, you can refer to the code in the provided scripts to see how each step was implemented.
+
+For the detailed code and output, please refer to the provided `FoodReviews.ipynb` file.
