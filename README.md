@@ -37,4 +37,4 @@ We evaluated each algorithm's performance using the Classification Report, which
 
 Please note that the actual code to perform these steps is not included in this document. However, you can refer to the code in the provided scripts to see how each step was implemented.
 
-For the detailed code and output, please refer to the provided `FoodReviews.ipynb` file.
+For the detailed code and output, please refer to the provided [`FoodRvieews.ipynb`](https://github.com/aadi1011/NLP-Food-Reviews/blob/aadi1011-patch-1/FoodReviews.ipynb) file.
