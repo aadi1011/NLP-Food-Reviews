@@ -2,6 +2,8 @@
 
 In this project, we perform text preprocessing and use various vectorization techniques and machine learning algorithms to classify Amazon Fine Food Reviews. Below is a summary of the steps taken and the results obtained.
 
+This is done using various machine m,models and implementing deeplearning
+
 ### Step 1: Data Download
 The dataset used for this project is the [Amazon Fine Food Reviews dataset](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews) sourced from Kaggle.
 
