@@ -25,9 +25,10 @@ c) **Word2Vec**: We used Word2Vec to create dense word embeddings based on the c
 
 d) **GoogleNews Word2Vec**: This is a pre-trained Word2Vec model trained on a large Google News dataset.
 
-### Step 4: Machine Learning Algorithms
-We employed the following machine learning algorithms for classification:
+### Step 4: Modelling
+We employed two types of modelling in this: Conventional Machine Learning and Deep Learning using LSTMs
 
+In Machine Learning, we applied:
 a) **Logistic Regression**: A simple linear classification algorithm that learns a decision boundary.
 
 b) **Support Vector Classifier (SVC)**: A powerful algorithm for binary and multi-class classification.
