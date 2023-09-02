@@ -28,7 +28,7 @@ d) **GoogleNews Word2Vec**: This is a pre-trained Word2Vec model trained on a la
 ### Step 4: Modelling
 We employed two types of modelling in this: Conventional Machine Learning and Deep Learning using LSTMs
 
-In Machine Learning, we applied:
+In Machine Learning, we applied:<br>
 a) **Logistic Regression**: A simple linear classification algorithm that learns a decision boundary.
 
 b) **Support Vector Classifier (SVC)**: A powerful algorithm for binary and multi-class classification.
